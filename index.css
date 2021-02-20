@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url(/Helkivad_ööpilved_Kuresoo_kohal.jpg);
+    background-size: cover;
+     background-position: center center; 
+     display: flex;
+     align-items: center;
+     flex-direction: column;
+     min-height: 100vh;
+     margin: 0;
+}
+
+h1{
+    font-weight: normal;
+    font-size: 3rem;
+    margin-top: 3rem;
+}
+.countdown-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: centre;
+}
+.big-text{
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 0.2;
+    margin: 0.5rem 2rem;
+}
+.first span {
+    font-size: 1.0rem;
+    
+}
+.first{
+    text-align: center;
+}
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
